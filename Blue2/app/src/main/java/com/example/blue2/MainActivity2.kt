@@ -27,8 +27,6 @@ class MainActivity2 : AppCompatActivity() {
             startActivity(intent)
         }
 
-
-
         //Termux Code-----------------------------------------------------------------------------------
 
         //Launch app with button
